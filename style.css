@@ -151,7 +151,7 @@ body {
 }
 
 .lista__link a:active {
-    color: aquamarine;
+    color: purple
 }
 
 .container-botao:hover{
